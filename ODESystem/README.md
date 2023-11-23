@@ -1,1 +1,1 @@
-This is a README.md file for testing
+This is a solution of an ODE function system
