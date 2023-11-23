@@ -1,0 +1,22 @@
+
+
+Package: odeSystem
+Title: Epidemics SEIR Simulation Model
+Version: 0.1.0
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("top0-github", "top0-github"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Simulation of SEIR model of an epidemics.
+License: 1.0.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+	deSolve,
+	ggplot2,
+	svglite
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+
+
